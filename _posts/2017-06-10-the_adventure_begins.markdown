@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Adventure Begins..."
-date:   2017-06-10 16:52:18 +0000
+date:   2017-06-10 12:52:19 -0400
 ---
 
 
