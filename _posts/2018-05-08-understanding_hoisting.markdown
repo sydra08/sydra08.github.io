@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Hoisting"
-date:       2018-05-08 22:31:59 +0000
+date:       2018-05-08 18:32:00 -0400
 permalink:  understanding_hoisting
 ---
 
